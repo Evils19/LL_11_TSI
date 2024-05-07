@@ -1,0 +1,20 @@
+D:\С# .NET\LL 11\LL 11\bin\Debug\net8.0-windows\LL 11.exe
+D:\С# .NET\LL 11\LL 11\bin\Debug\net8.0-windows\LL 11.deps.json
+D:\С# .NET\LL 11\LL 11\bin\Debug\net8.0-windows\LL 11.runtimeconfig.json
+D:\С# .NET\LL 11\LL 11\bin\Debug\net8.0-windows\LL 11.dll
+D:\С# .NET\LL 11\LL 11\bin\Debug\net8.0-windows\LL 11.pdb
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\App.g.cs
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11_MarkupCompile.cache
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11_MarkupCompile.lref
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\MainWindow.baml
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11.g.resources
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11.AssemblyInfoInputs.cache
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11.AssemblyInfo.cs
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11.csproj.CoreCompileInputs.cache
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11.dll
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\refint\LL 11.dll
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11.pdb
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\LL 11.genruntimeconfig.cache
+D:\С# .NET\LL 11\LL 11\obj\Debug\net8.0-windows\ref\LL 11.dll

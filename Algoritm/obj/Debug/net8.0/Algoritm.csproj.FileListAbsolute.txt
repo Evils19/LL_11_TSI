@@ -1,0 +1,14 @@
+D:\С# .NET\LL 11\Algoritm\bin\Debug\net8.0\Algoritm.exe
+D:\С# .NET\LL 11\Algoritm\bin\Debug\net8.0\Algoritm.deps.json
+D:\С# .NET\LL 11\Algoritm\bin\Debug\net8.0\Algoritm.runtimeconfig.json
+D:\С# .NET\LL 11\Algoritm\bin\Debug\net8.0\Algoritm.dll
+D:\С# .NET\LL 11\Algoritm\bin\Debug\net8.0\Algoritm.pdb
+D:\С# .NET\LL 11\Algoritm\obj\Debug\net8.0\Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+D:\С# .NET\LL 11\Algoritm\obj\Debug\net8.0\Algoritm.AssemblyInfoInputs.cache
+D:\С# .NET\LL 11\Algoritm\obj\Debug\net8.0\Algoritm.AssemblyInfo.cs
+D:\С# .NET\LL 11\Algoritm\obj\Debug\net8.0\Algoritm.csproj.CoreCompileInputs.cache
+D:\С# .NET\LL 11\Algoritm\obj\Debug\net8.0\Algoritm.dll
+D:\С# .NET\LL 11\Algoritm\obj\Debug\net8.0\refint\Algoritm.dll
+D:\С# .NET\LL 11\Algoritm\obj\Debug\net8.0\Algoritm.pdb
+D:\С# .NET\LL 11\Algoritm\obj\Debug\net8.0\Algoritm.genruntimeconfig.cache
+D:\С# .NET\LL 11\Algoritm\obj\Debug\net8.0\ref\Algoritm.dll
